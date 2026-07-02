@@ -5,7 +5,7 @@ export const siteConfig = {
     "Integrated security specialist combining professional tactical operations, maritime defense, and military commando discipline with robust engineering expertise across cybersecurity, IoT architecture, and digital identity design.",
   url: "https://yourdomain.com", 
   email: "ioannisv-ops@protonmail.com",
-  phone: "+30 694 652 8487 #WhatsApp",
+  phone: "+X XXX XXX XXXX #WhatsApp",
   location: "Worldwide",
   linkedin: "https://linkedin.com/in/yourprofile", 
   github: "https://github.com/ioannisv-ops",     
