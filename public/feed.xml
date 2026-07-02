@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Integrated Security Specialist Blog</title>
+    <link>https://yourdomain.com/blog/</link>
+    <description>Elite integrated security consultant combining cybersecurity, physical security, maritime security, and executive protection.</description>
+    
+    <item>
+      <title>Why Integrated Security Matters for Critical Infrastructure</title>
+      <link>https://yourdomain.com/blog/integrated-security-critical-infrastructure/</link>
+      <guid>https://yourdomain.com/blog/integrated-security-critical-infrastructure/</guid>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Cyber and physical security are no longer separate disciplines. Organizations that treat them as isolated functions leave critical gaps in their defense posture.</description>
+    </item>
+    <item>
+      <title>Maritime Security in the Age of Cyber-Physical Threats</title>
+      <link>https://yourdomain.com/blog/maritime-security-cyber-physical/</link>
+      <guid>https://yourdomain.com/blog/maritime-security-cyber-physical/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Modern vessel operations depend on interconnected systems. ISPS compliance alone is insufficient without addressing the cyber dimension of maritime security.</description>
+    </item>
+    <item>
+      <title>Executive Protection: Professional Competencies, Not Hollywood Tactics</title>
+      <link>https://yourdomain.com/blog/executive-protection-competencies/</link>
+      <guid>https://yourdomain.com/blog/executive-protection-competencies/</guid>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Executive security is built on planning, awareness, and de-escalation—not aggression. Understanding the professional standards behind close protection.</description>
+    </item>
+  </channel>
+</rss>
