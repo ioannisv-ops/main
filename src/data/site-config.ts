@@ -9,7 +9,7 @@ export const siteConfig = {
   location: "Worldwide",
   linkedin: "https://linkedin.com/in/yourprofile", 
   github: "https://github.com/ioannisv-ops",     
-  cvPath: "https://github.com/ioannisv-ops/main/tree/main/src/data/cv.pdf",
+  cvPath: "/cvzxcvbn.pdf",
   locale: "en_US",
 } as const;
 
