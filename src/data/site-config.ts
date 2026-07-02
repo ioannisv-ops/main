@@ -45,7 +45,7 @@ export const aboutContent = {
   timeline: [
     {
       year: "September 2025 — Present",
-      title: "Lead Designer & Web Developer",
+      title: "Designer & Web Developer",
       organization: "Promotion ADV (Crete, Greece)",
       description:
         "Delivering corporate identity architectures, comprehensive multi-scale print media layouts, and secure digital web interfaces for commercial enterprises.",
@@ -159,7 +159,7 @@ export const expertiseCategories = [
 export const experience = [
   {
     id: "exp-1",
-    role: "Lead Designer & Web Developer",
+    role: " Designer & Web Developer",
     company: "Promotion ADV",
     period: "September 2025 — Present",
     location: "Crete, Greece",
