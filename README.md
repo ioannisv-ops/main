@@ -291,9 +291,3 @@ Email
 
 ioannisv-ops@protonmail.com
 ````
-
-### One suggestion
-
-
-> **IoannisV OPS | Integrated Security Platform**
-
