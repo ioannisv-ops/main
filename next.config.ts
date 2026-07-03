@@ -8,6 +8,10 @@ const nextConfig: NextConfig = {
   },
 
   trailingSlash: true,
+
+  // Required for GitHub Pages project site
+  basePath: "/main",
+  assetPrefix: "/main/",
 };
 
 export default nextConfig;
