@@ -56,7 +56,6 @@ export function ContactSection() {
     { icon: Mail, label: "Email", value: siteConfig.email, href: `mailto:${siteConfig.email}` },
     { icon: Phone, label: "Phone", value: siteConfig.phone, href: `tel:${siteConfig.phone.replace(/\s/g, "")}` },
     { icon: MapPin, label: "Location", value: siteConfig.location, href: null },
-    { icon: FaLinkedin, label: "LinkedIn", value: "Connect on LinkedIn", href: siteConfig.linkedin },
     { icon: FaGithub, label: "GitHub", value: "View Projects", href: siteConfig.github },
   ];
 

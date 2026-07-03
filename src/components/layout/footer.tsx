@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Shield, Download, Mail } from "lucide-react";
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import { siteConfig, navigation } from "@/data/site-config";
 
 export function Footer() {
@@ -22,15 +22,6 @@ export function Footer() {
               security, maritime operations, and executive protection.
             </p>
             <div className="mt-6 flex gap-3">
-              <a
-                href={siteConfig.linkedin}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex h-10 w-10 items-center justify-center rounded-lg border border-border transition-colors hover:border-accent/40 hover:bg-accent/10"
-                aria-label="LinkedIn"
-              >
-                <FaLinkedin className="h-4 w-4" />
-              </a>
               <a
                 href={siteConfig.github}
                 target="_blank"

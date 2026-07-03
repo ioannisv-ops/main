@@ -7,7 +7,6 @@ export const siteConfig = {
   email: "ioannisv-ops@protonmail.com",
   phone: "+X XXX XXX XXXX #WhatsApp",
   location: "Worldwide",
-  linkedin: "https://linkedin.com/in/yourprofile", 
   github: "https://github.com/ioannisv-ops",     
   cvPath: "https://github.com/ioannisv-ops/main/blob/main/cvzxcvbn.pdf",
   locale: "en_US",

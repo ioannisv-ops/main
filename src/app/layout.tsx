@@ -97,7 +97,7 @@ const jsonLd = {
     "Risk Management",
     "Incident Response",
   ],
-  sameAs: [siteConfig.linkedin, siteConfig.github],
+  sameAs: [siteConfig.github],
 };
 
 export default function RootLayout({
